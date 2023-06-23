@@ -27,7 +27,7 @@
    </property>
    <widget class="QMenu" name="menuFile">
     <property name="title">
-     <string>File</string>
+     <string>File</string>git
     </property>
     <addaction name="actionNew_File"/>
     <addaction name="actionClose_File"/>
